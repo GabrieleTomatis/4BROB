@@ -20,5 +20,5 @@ To ensure that the poses were replicated correctly, we decided to put tutorials 
 As already mentioned, our project consists in the rehabilitation of the patient, especially the upper limbs and torso, but not only, also consists in the stimulation of the memory of the player.
 This game is designed specifically for people suffering from multiple sclerosis, going to strengthen and stimulate memory and body.
 
-# Requisiti:
-Per realizzare questo progetto abbiamo dovuto scaricare la libreria [PoseNet](https://www.tensorflow.org/install?hl=it)
+# Requirements:
+To realize this project we had to download the library [PoseNet](https://www.tensorflow.org/install?hl=it)
